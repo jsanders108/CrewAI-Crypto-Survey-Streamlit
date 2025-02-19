@@ -5,7 +5,7 @@ import requests  # To send data to FastAPI
 import numpy as np  # Needed for handling NaN and inf values
 
 # FastAPI Endpoint
-API_URL = "http://127.0.0.1:8000/run-analysis/"  # Update if FastAPI runs elsewhere
+API_URL = "https://crewai-crypto-survey-fastapi-production.up.railway.app/run-analysis/"  # Update if FastAPI runs elsewhere
 
 st.title("CrewAI Survey Analysis")
 
