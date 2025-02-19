@@ -27,12 +27,3 @@ The system is split into **two repositories**: one for the Streamlit frontend an
 
 Both services are deployed on **Railway**, with public networking enabled.
 
-## 🛠️ Setup & Running Locally
-
-To run the project locally, follow these steps:
-
-### 1️⃣ Clone the Repository
-
-```sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
